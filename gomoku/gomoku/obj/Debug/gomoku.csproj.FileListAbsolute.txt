@@ -1,0 +1,27 @@
+C:\Users\farru\OneDrive\Desktop\OOP\aftermids\gomoku\gomoku\gomoku\bin\Debug\gomoku.exe.config
+C:\Users\farru\OneDrive\Desktop\OOP\aftermids\gomoku\gomoku\gomoku\bin\Debug\gomoku.exe
+C:\Users\farru\OneDrive\Desktop\OOP\aftermids\gomoku\gomoku\gomoku\bin\Debug\gomoku.pdb
+C:\Users\farru\OneDrive\Desktop\OOP\aftermids\gomoku\gomoku\gomoku\obj\Debug\gomoku.csprojResolveAssemblyReference.cache
+C:\Users\farru\OneDrive\Desktop\OOP\aftermids\gomoku\gomoku\gomoku\obj\Debug\gomoku.GForm.resources
+C:\Users\farru\OneDrive\Desktop\OOP\aftermids\gomoku\gomoku\gomoku\obj\Debug\gomoku.Properties.Resources.resources
+C:\Users\farru\OneDrive\Desktop\OOP\aftermids\gomoku\gomoku\gomoku\obj\Debug\gomoku.csproj.GenerateResource.Cache
+C:\Users\farru\OneDrive\Desktop\OOP\aftermids\gomoku\gomoku\gomoku\obj\Debug\gomoku.exe
+C:\Users\farru\OneDrive\Desktop\OOP\aftermids\gomoku\gomoku\gomoku\obj\Debug\gomoku.pdb
+C:\Users\Gulsher Ahmed Virk\Desktop\gomuko\gomoku\gomoku\bin\Debug\gomoku.exe.config
+C:\Users\Gulsher Ahmed Virk\Desktop\gomuko\gomoku\gomoku\obj\Debug\gomoku.exe
+C:\Users\Gulsher Ahmed Virk\Desktop\gomuko\gomoku\gomoku\obj\Debug\gomoku.pdb
+C:\Users\Gulsher Ahmed Virk\Desktop\gomuko\gomoku\gomoku\bin\Debug\gomoku.exe
+C:\Users\Gulsher Ahmed Virk\Desktop\gomuko\gomoku\gomoku\bin\Debug\gomoku.pdb
+C:\Users\Gulsher Ahmed Virk\Desktop\gomuko\gomoku\gomoku\obj\Debug\gomoku.csprojResolveAssemblyReference.cache
+C:\Users\Gulsher Ahmed Virk\Desktop\gomuko\gomoku\gomoku\obj\Debug\gomoku.GForm.resources
+C:\Users\Gulsher Ahmed Virk\Desktop\gomuko\gomoku\gomoku\obj\Debug\gomoku.Properties.Resources.resources
+C:\Users\Gulsher Ahmed Virk\Desktop\gomuko\gomoku\gomoku\obj\Debug\gomoku.csproj.GenerateResource.Cache
+C:\Users\farru\OneDrive\Desktop\OOP\aftermids\gomuko\gomoku\gomoku\bin\Debug\gomoku.exe.config
+C:\Users\farru\OneDrive\Desktop\OOP\aftermids\gomuko\gomoku\gomoku\obj\Debug\gomoku.exe
+C:\Users\farru\OneDrive\Desktop\OOP\aftermids\gomuko\gomoku\gomoku\obj\Debug\gomoku.pdb
+C:\Users\farru\OneDrive\Desktop\OOP\aftermids\gomuko\gomoku\gomoku\bin\Debug\gomoku.exe
+C:\Users\farru\OneDrive\Desktop\OOP\aftermids\gomuko\gomoku\gomoku\bin\Debug\gomoku.pdb
+C:\Users\farru\OneDrive\Desktop\OOP\aftermids\gomuko\gomoku\gomoku\obj\Debug\gomoku.csprojResolveAssemblyReference.cache
+C:\Users\farru\OneDrive\Desktop\OOP\aftermids\gomuko\gomoku\gomoku\obj\Debug\gomoku.GForm.resources
+C:\Users\farru\OneDrive\Desktop\OOP\aftermids\gomuko\gomoku\gomoku\obj\Debug\gomoku.Properties.Resources.resources
+C:\Users\farru\OneDrive\Desktop\OOP\aftermids\gomuko\gomoku\gomoku\obj\Debug\gomoku.csproj.GenerateResource.Cache
